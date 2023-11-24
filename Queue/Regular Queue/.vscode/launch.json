@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Academics/BSIT2-1/1st Sem/Data Structures and Algorithms/Data Structure and Algorithms/Stack",
-      "program": "c:/Academics/BSIT2-1/1st Sem/Data Structures and Algorithms/Data Structure and Algorithms/Stack/build/Debug/outDebug",
+      "cwd": "c:/Academics/BSIT2-1/1st Sem/Data Structures and Algorithms/Data Structure and Algorithms/Queue/Regular Queue",
+      "program": "c:/Academics/BSIT2-1/1st Sem/Data Structures and Algorithms/Data Structure and Algorithms/Queue/Regular Queue/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
